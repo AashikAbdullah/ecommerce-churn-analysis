@@ -93,3 +93,28 @@ Grouped by `CustomerID` to compute:
 ## 💾 Exported Cleaned Dataset
 
 The final processed customer dataset (4197 rows) was saved before model training.
+
+## 🧠 Tech Stack
+
+- Python
+- Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📌 Conclusion
+
+This project offers a data-driven approach to identify customer churn using RFM metrics and classification models.  
+It empowers businesses to take proactive actions toward customer retention by:
+
+- **Profiling churned customers**
+- **Understanding behavior trends**
+- **Building a predictive system to flag future churn**
+
+---
+
+## 📂 Author
+
+**Aashik Abdullah**  
+🔗 [LinkedIn](https://www.linkedin.com/in/aashikabdullah)  
+
